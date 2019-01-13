@@ -1,0 +1,6 @@
+Hi,
+This file is used in the demonstration of php file reading.
+Best Regads,
+Kavinda
+
+https://github.com/kavindasilva
