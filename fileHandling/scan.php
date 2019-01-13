@@ -1,7 +1,7 @@
 <?php
 
 /**
-	This file does directory reading and identifying files, type, and file reading
+	This file does directory reading and identifying files, type, and Creating new directory if not exists
 */
 
 $scanPath="."; // current directory
